@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Another blog",
+      "body": "Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.",
+      "author": "AK",
+      "id": 4
+    },
+    {
+      "title": "Another blog",
+      "body": "Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.Just bullshit.",
+      "author": "AK",
+      "id": 5
+    },
+    {
+      "title": "Stupid",
+      "body": "random",
+      "author": "AK",
+      "id": 6
+    },
+    {
+      "title": "Crazy",
+      "body": "get lost",
+      "author": "AK",
+      "id": 7
+    }
+  ]
+}
